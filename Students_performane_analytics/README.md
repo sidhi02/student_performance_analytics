@@ -77,13 +77,21 @@ The dataset contains student performance details including:
 
 ## 📁 Project Structure
 
-student_performance_analytics  
-|  
-├── dataset → Raw dataset files  
-├── cleaned_data → Cleaned CSV files  
-├── notebooks → Python analysis notebooks  
-├── dashboard → Tableau dashboard files  
-└── README.md  
+student_performance_analytics/
+│
+├── dataset/
+│   └── Raw dataset files
+│
+├── cleaned_data/
+│   └── Cleaned CSV files
+│
+├── notebooks/
+│   └── Python analysis notebooks
+│
+├── dashboard/
+│   └── Tableau dashboard files
+│
+└── README.md
 
 ---
 
