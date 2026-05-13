@@ -77,6 +77,7 @@ The dataset contains student performance details including:
 
 ## 📁 Project Structure
 
+```text
 student_performance_analytics/
 │
 ├── dataset/
@@ -92,6 +93,7 @@ student_performance_analytics/
 │   └── Tableau dashboard files
 │
 └── README.md
+```
 
 ---
 
