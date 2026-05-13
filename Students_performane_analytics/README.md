@@ -55,8 +55,7 @@ The dataset contains student performance details including:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard](img width="1007" height="665" alt="students_performance_dashboard" src="https://github.com/user-attachments/ass<ets/aceaeb1e-ce1a-4c80-8498-5418e51a2d1a" />
-)
+![Dashboard](dashboard/students_performance_dashboard.png)
 
 ---
 
