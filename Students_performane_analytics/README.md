@@ -55,12 +55,13 @@ The dataset contains student performance details including:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard](dashboard/student_performance_dashboard.png)
+![Dashboard](dashboard/students_performance_dashboard.png)
 
 ---
 
 ## 📊 Live Dashboard
-[View Tableau Dashboard]((https://public.tableau.com/authoring/students_performance_analytics/Dashboard23/Dashboard#1))
+[View Tableau Dashboard](https://public.tableau.com/authoring/students_performance_analytics/Dashboard23/Dashboard#1)
+
 ---
 
 ## ⚙️ Project Workflow
