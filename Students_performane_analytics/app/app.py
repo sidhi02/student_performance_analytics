@@ -142,7 +142,9 @@ section[data-testid="stSidebar"] input {
 """, unsafe_allow_html=True)
 
 # ---------------- LOAD MODEL ----------------
-model = joblib.load("pass_fail_model.pkl")
+import os
+model_path = os.path.join(os.path.dirname(__file__), "pass_fail_model.pkl")
+model = joblib.load(model_path)
 
 # ---------------- SIDEBAR ----------------
 st.sidebar.markdown("## 🎯 Enter Student Details")
