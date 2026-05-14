@@ -15,6 +15,47 @@ It is a complete end-to-end Data Analytics and Machine Learning project.
 
 ---
 
+## 🏗️ Project Architecture
+
+```text
+                 ┌─────────────────────┐
+                 │   Student Dataset   │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │  Data Cleaning &    │
+                 │   Preprocessing     │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │ Exploratory Data    │
+                 │ Analysis (EDA)      │
+                 └──────────┬──────────┘
+                            │
+            ┌───────────────┴───────────────┐
+            ▼                               ▼
+ ┌─────────────────────┐        ┌─────────────────────┐
+ │ Tableau Dashboard   │        │ Machine Learning    │
+ │ Visualization       │        │ Model Training      │
+ └──────────┬──────────┘        └──────────┬──────────┘
+            │                               │
+            ▼                               ▼
+ ┌─────────────────────┐        ┌─────────────────────┐
+ │ Performance Insights│        │ Risk Prediction     │
+ │ & KPI Analysis      │        │ System              │
+ └──────────┬──────────┘        └──────────┬──────────┘
+            │                               │
+            └───────────────┬───────────────┘
+                            ▼
+                 ┌─────────────────────┐
+                 │ Streamlit Web App   │
+                 │ Deployment          │
+                 └─────────────────────┘
+
+
+
 ## 🚀 Features
 
 - Data Cleaning & Preprocessing
