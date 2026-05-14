@@ -1,4 +1,4 @@
-<img width="503" height="447" alt="Screenshot 2026-05-14 at 9 45 20 PM" src="https://github.com/user-attachments/assets/c9378cbf-a5b2-4aae-aa76-70e81fb4e3a7" /># 🎓 Student Performance Analytics & Prediction System
+# 🎓 Student Performance Analytics & Prediction System
 
 ## 📌 Project Overview
 This project analyzes student performance data to identify patterns affecting academic scores and predict whether a student is at risk based on performance metrics.
