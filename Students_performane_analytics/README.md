@@ -290,4 +290,9 @@ Future improvements planned for the project:
 
 ---
 
-Sidhi Deshmukh.
+## 👩‍💻 Author
+
+**Sidhi Deshmukh**
+
+3rd Year Computer Science Engineering Student  
+Specialization: Artificial Intelligence & Data Science
