@@ -40,14 +40,14 @@ It is a complete end-to-end Data Analytics and Machine Learning project.
  │ Tableau Dashboard   │        │ Machine Learning    │
  │ Visualization       │        │ Model Training      │
  └──────────┬──────────┘        └──────────┬──────────┘
-            │                               │
-            ▼                               ▼
+            │                              │
+            ▼                              ▼
  ┌─────────────────────┐        ┌─────────────────────┐
  │ Performance Insights│        │ Risk Prediction     │
  │ & KPI Analysis      │        │ System              │
  └──────────┬──────────┘        └──────────┬──────────┘
-            │                               │
-            └───────────────┬───────────────┘
+            │                              │
+            └───────────────┬──────────────┘
                             ▼
                  ┌─────────────────────┐
                  │ Streamlit Web App   │
