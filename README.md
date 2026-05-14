@@ -196,9 +196,10 @@ streamlit run app/app.py
 ### GitHub Repository
 (https://github.com/sidhi02/student_performance_analytics)
 ### Live Streamlit App
-https://studentperformanceanalytics-cyegnpc6slgyytahiyrs4c.streamlit.app
+(https://studentperformanceanalytics-cyegnpc6slgyytahiyrs4c.streamlit.app)
 ### Tableau Dashboard
-https://public.tableau.com/app/profile/sidhi.deshmukh/viz/students_performance_analytics/Dashboard2
+(https://public.tableau.com/app/profile/sidhi.deshmukh/viz/students_performance_analytics/Dashboard2)
+
 ---
 
 ## 📸 Project Screenshots
