@@ -1,4 +1,4 @@
-# 🎓 Student Performance Analytics & Prediction System
+<img width="503" height="447" alt="Screenshot 2026-05-14 at 9 45 20 PM" src="https://github.com/user-attachments/assets/c9378cbf-a5b2-4aae-aa76-70e81fb4e3a7" /># 🎓 Student Performance Analytics & Prediction System
 
 ## 📌 Project Overview
 This project analyzes student performance data to identify patterns affecting academic scores and predict whether a student is at risk based on performance metrics.
@@ -133,6 +133,15 @@ The objective of this project is to analyze factors affecting student academic p
 - Precision: 87%
 - Recall: 85%
 - F1-Score: 86%
+- 
+### Confusion Matrix
+<img width="503" height="447" alt="Screenshot 2026-05-14 at 9 45 20 PM" src="https://github.com/user-attachments/assets/d93082ed-bff4-4b0f-9684-a599c742094b" />
+
+### ROC Curve
+<img width="616" height="461" alt="Screenshot 2026-05-14 at 9 45 42 PM" src="https://github.com/user-attachments/assets/38765103-377c-4248-8a2e-15be727be6f3" />
+
+### Feature Importance
+<img width="2216" height="1117" alt="Screenshot 2026-05-14 at 9 41 44 PM" src="https://github.com/user-attachments/assets/636d346c-1c5a-4fac-9d79-86dee6060dae" />
 
 ---
 
