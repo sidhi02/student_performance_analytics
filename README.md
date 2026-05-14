@@ -53,7 +53,7 @@ It is a complete end-to-end Data Analytics and Machine Learning project.
                  │ Streamlit Web App   │
                  │ Deployment          │
                  └─────────────────────┘
-
+```
 
 
 ## 🚀 Features
