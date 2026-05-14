@@ -208,9 +208,9 @@ Add screenshots of:
 <img width="1007" height="665" alt="students_performance_dashboard" src="https://github.com/user-attachments/assets/83fad8ab-41e3-45a2-afea-aa8123f737be" />
 
 - Streamlit App
-- 
-- Prediction Results
-- Visualizations
+<img width="1470" height="865" alt="Screenshot 2026-05-14 at 9 32 38 PM" src="https://github.com/user-attachments/assets/9ae54abe-eb6f-449b-a1e7-15d8620ab609" />
+<img width="1468" height="868" alt="Screenshot 2026-05-14 at 9 32 56 PM" src="https://github.com/user-attachments/assets/65e89825-caa9-4746-b61d-4ea782f4f939" />
+<img width="1467" height="870" alt="Screenshot 2026-05-14 at 9 33 14 PM" src="https://github.com/user-attachments/assets/dbe6b18a-64c2-4398-abe8-5f5be17c671c" />
 
 ---
 
