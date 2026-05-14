@@ -261,9 +261,9 @@ streamlit run app/app.py
 
 ## 📸 Project Screenshots
 
-Add screenshots of:
 - Tableau Dashboard
 <img width="1007" height="665" alt="students_performance_dashboard" src="https://github.com/user-attachments/assets/83fad8ab-41e3-45a2-afea-aa8123f737be" />
+
 
 - Streamlit App
 <img width="1470" height="865" alt="Screenshot 2026-05-14 at 9 32 38 PM" src="https://github.com/user-attachments/assets/9ae54abe-eb6f-449b-a1e7-15d8620ab609" />
