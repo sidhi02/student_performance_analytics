@@ -1,4 +1,11 @@
-# 🎓 Student Performance Analytics & Prediction System
+# 🎓 AI-Powered Student Performance Analytics
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-RandomForest-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 📌 Project Overview
 This project analyzes student performance data to identify patterns affecting academic scores and predict whether a student is at risk based on performance metrics.
@@ -244,11 +251,11 @@ streamlit run app/app.py
 ## 🔗 Project Links
 
 ### GitHub Repository
-(https://github.com/sidhi02/student_performance_analytics)
+[View GitHub Repository](https://github.com/sidhi02/student_performance_analytics)
 ### Live Streamlit App
-(https://studentperformanceanalytics-cyegnpc6slgyytahiyrs4c.streamlit.app)
+[Open Streamlit App](https://studentperformanceanalytics-cyegnpc6slgyytahiyrs4c.streamlit.app)
 ### Tableau Dashboard
-(https://public.tableau.com/app/profile/sidhi.deshmukh/viz/students_performance_analytics/Dashboard2)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/sidhi.deshmukh/viz/students_performance_analytics/Dashboard2)
 
 ---
 
