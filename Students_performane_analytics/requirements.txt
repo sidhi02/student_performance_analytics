@@ -11,4 +11,5 @@ numpy\
 scikit-learn\
 joblib\
 matplotlib\
-seaborn}
+seaborn\
+plotly}
