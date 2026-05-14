@@ -181,7 +181,7 @@ The objective of this project is to analyze factors affecting student academic p
 - Precision: 87%
 - Recall: 85%
 - F1-Score: 86%
-- 
+ 
 ### Confusion Matrix
 <img width="503" height="447" alt="Screenshot 2026-05-14 at 9 45 20 PM" src="https://github.com/user-attachments/assets/d93082ed-bff4-4b0f-9684-a599c742094b" />
 
