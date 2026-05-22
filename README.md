@@ -302,4 +302,4 @@ Future improvements planned for the project:
 **Sidhi Deshmukh**
 
 3rd Year Computer Science Engineering Student  
-Specialization: Artificial Intelligence & Data Science
+Specialization: Artificial Intelligence & Data Science.
